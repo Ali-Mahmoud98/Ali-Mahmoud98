@@ -3,11 +3,15 @@
 
 <br/>
 <br/>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+<!-- <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280"> -->
+<img align="right" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" alt="Coder GIF" width="200" height="280">
 
+	
 <h3>🚀 About Me</h3> 
-<h4> Hi there! 🙂I'm Ali, a software engineer proficient in C programming, C++, python, and familiar with embedded systems and computer architecture. I also have knowledge of front-end web development using HTML, CSS, and JavaScript. </h4>
+<h4> Hi there! 🙂I'm Ali, a communication and electronics engineer who is passionate about Software Engineering, proficient in C programming, C++, python, and familiar with embedded systems, computer architecture and operating systems. I also have knowledge of front-end web development using HTML, CSS, and JavaScript. </h4>
+I'm a communication and electronics student who is passionate about Embedded Software. 
 
 
 	
