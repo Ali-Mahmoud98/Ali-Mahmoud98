@@ -1,9 +1,7 @@
-<h1 align="center">Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> I am Ali Mahmoud ♥
-<!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px> -->
-
-<br/>
-<br/>
+<h1 align="center">Hello! 👋 I am Ali Mahmoud ♥ </h1>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
+<br/>
 
 <!-- <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280"> -->
 <img align="right" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" alt="Coder GIF" width="200" height="280">
