@@ -52,7 +52,7 @@
 <img src="https://imgur.com/rilHVxA.png"/>
 </p>
 
-
+----------------------------------------------------------------
 ### 🔗Contact Me
 [![Gmail
 ](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:AmrSaaayed74@gmail.com)](mailto:ali98mahmoudr@gmail.com)
