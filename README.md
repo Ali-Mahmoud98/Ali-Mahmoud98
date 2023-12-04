@@ -8,10 +8,7 @@
 <h4> Hi there! 🙂I'm Ali, a communication and electronics engineer who is passionate about Software Engineering, proficient in C programming, C++, python, and I am working in enhancing my programming skills and learning more about Microcontrollers, Embedded Sofware, Real-Time operating Systems, and Embedded Linux.</h4>
 <h4>I also have knowledge of front-end web development using HTML, CSS, and JavaScript.</h4>
 
-
-	
-
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
+-------------------------------------------------------------------------------------------------------------
 
 ### Languages and Tools 🛠: 
 - 💻 &nbsp;
