@@ -5,8 +5,7 @@
 
 	
 <h3>🚀 About Me</h3> 
-<h4> Hi there! 🙂I'm Ali, a communication and electronics engineer who is passionate about Software Engineering, proficient in C programming, C++, python, and I am working in enhancing my programming skills and learning more about Microcontrollers, Embedded Sofware, Real-Time operating Systems, and Embedded Linux.</h4>
-<h4>I also have knowledge of front-end web development using HTML, CSS, and JavaScript.</h4>
+<h4> Hi there! 🙂I'm Ali, a communication and electronics engineer who is passionate about Software Engineering, proficient in C programming, C++, python, and I am working in enhancing my programming skills and learning more about Microcontrollers, Embedded Sofware, Real-Time operating Systems, and Embedded Linux.<br>I also have knowledge of front-end web development using HTML, CSS, and JavaScript.</h4>
 
 ### Languages and Tools 🛠: 
 - 💻 &nbsp;
