@@ -33,7 +33,7 @@
 
 
 - ### I’m currently learning:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original-wordmark.svg" width="10" height="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original-wordmark.svg" width=10px height=10px/>
 ![Qt](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/MS-SQL-blue)
