@@ -1,8 +1,5 @@
 <h1 align="center">Hello! 👋 I am Ali Mahmoud ♥ </h1>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
-<br/>
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 	
