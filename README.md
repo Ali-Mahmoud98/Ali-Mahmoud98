@@ -43,12 +43,26 @@
 ### I’m currently learning:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width=25px height=20px/> <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" width=80px height=20px/>
 
-![](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+
+<br/>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### ✨ Visitors 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ali-Mahmoud98" alt="Ali Mahmoud"/> </p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 📊 Profile stats
+
+[![Ali Mahmoud's github stats](https://github-readme-stats.vercel.app/api?username=Ali-Mahmoud98&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Ali-Mahmoud98/github-readme-stats)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</p>
+<img src="https://imgur.com/rilHVxA.png"/>
+</p>
+
 
 ### 🔗Contact Me
 [![Gmail
