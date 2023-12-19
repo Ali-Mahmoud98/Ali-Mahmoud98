@@ -4,7 +4,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 	
-<h3>🚀 About Me</h3> 
+<h3>🚀 About Me</
+h3> 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="290" height="320">
 <h4> Hi there! 🙂I'm Ali, a communication and electronics engineer who is passionating about Software Engineering.<br> I am working on enhancing my programming skills and learning more about Microcontrollers, Embedded Sofware, Real-Time operating Systems, and Embedded Linux.<br>I also have knowledge of front-end web development using HTML, CSS, and JavaScript.</h4>
 
@@ -58,6 +59,5 @@
 [![Gmail
 ](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:AmrSaaayed74@gmail.com)](mailto:ali98mahmoudr@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alimahmoudroushdy/?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)](https://www.linkedin.com/in/alimahmoudroushdy/?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=flat-square&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=+201114804339)
 
 
