@@ -1,13 +1,11 @@
-<h1 align="center">Hello! 👋 I am Ali Mahmoud ♥ </h1>
+<img align='center' width='1020' src='https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2738.jpg?w=826&t=st=1665971325~exp=1665971925~hmac=ec0dfa2d7e5eab170131ade718501cc66f0eeb07495ca493d38c092b518cb8a9'>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!--<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="290" height="320">-->
 
-	
-<h3>🚀 About Me</
-h3> 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="290" height="320">
-<h4> Hi there! 🙂I'm Ali, a communication and electronics engineer who is passionating about Software Engineering.<br> I am working on enhancing my programming skills and learning more about Microcontrollers, Embedded Sofware, Real-Time operating Systems, and Embedded Linux.<br>I also have knowledge of front-end web development using HTML, CSS, and JavaScript.</h4>
+
+Hi there 👋! 🙂I'm **Ali Mahmoud**, an Embedded Software engineer 🚀 from Egypt with a passion for building efficient and reliable systems, I'm interested in DevOps and working to expand my skillset.
+
 
 ### Languages and Tools 🛠: 
 - 💻 &nbsp;
@@ -32,10 +30,6 @@ h3>
 - 🔧 &nbsp;
 ![](https://img.shields.io/badge/AVR-Interfacing-blue)
 ![](https://img.shields.io/badge/ARM-Interfacing-blue)
-
-
-### I’m currently learning:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width=25px height=20px/> <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" width=80px height=20px/>
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
