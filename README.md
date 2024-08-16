@@ -4,6 +4,7 @@
 Hi there 👋! 🙂I'm **Ali Mahmoud**, an Embedded Software engineer 🚀 from Egypt with a passion for building efficient and reliable systems, I'm interested in DevOps and working to expand my skillset.
 <br>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Languages and Tools 🛠: 
 - 💻 &nbsp;
 ![C Programming](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
