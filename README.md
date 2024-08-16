@@ -1,8 +1,8 @@
 <!--<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="290" height="320">-->
 
 
-<h2>Hi there 👋! 🙂I'm **Ali Mahmoud**, an Embedded Software engineer 🚀 from Egypt with a passion for building efficient and reliable systems, I'm interested in DevOps and working to expand my skillset.</h2>
-
+Hi there 👋! 🙂I'm **Ali Mahmoud**, an Embedded Software engineer 🚀 from Egypt with a passion for building efficient and reliable systems, I'm interested in DevOps and working to expand my skillset.
+<br>
 
 ### Languages and Tools 🛠: 
 - 💻 &nbsp;
