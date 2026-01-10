@@ -31,18 +31,6 @@ Hi there 👋! 🙂I'm **Ali Mahmoud**, an Embedded Software engineer 🚀 from 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### ✨ Visitors 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ali-Mahmoud98" alt="Ali Mahmoud"/> </p>
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### 📊 Profile stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Ali-Mahmoud98&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Ali-Mahmoud98"/></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali-Mahmoud98&langs_count=10&show_icons=true&theme=radical&locale=en&layout=compact" alt="Ali-Mahmoud98"/></p>
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 </p>
 <img src="https://imgur.com/rilHVxA.png"/>
 </p>
@@ -53,4 +41,8 @@ Hi there 👋! 🙂I'm **Ali Mahmoud**, an Embedded Software engineer 🚀 from 
 ](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:AmrSaaayed74@gmail.com)](mailto:ali98mahmoudr@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alimahmoudroushdy/?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)](https://www.linkedin.com/in/alimahmoudroushdy/?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### ✨ Visitors 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ali-Mahmoud98" alt="Ali Mahmoud"/> </p>
 
